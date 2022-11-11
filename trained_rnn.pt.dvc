@@ -1,0 +1,4 @@
+outs:
+- md5: f70e97ce977bd18dbb4579fba05ad527
+  size: 25736351
+  path: trained_rnn.pt

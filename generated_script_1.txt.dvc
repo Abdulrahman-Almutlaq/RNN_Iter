@@ -1,0 +1,4 @@
+outs:
+- md5: 9a44c28ed83b1119c9b42d494a07b1f5
+  size: 1472
+  path: generated_script_1.txt
