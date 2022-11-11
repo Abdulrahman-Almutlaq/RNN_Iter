@@ -1,0 +1,3 @@
+rnn:
+  path: trained_rnn.pt
+  type: model

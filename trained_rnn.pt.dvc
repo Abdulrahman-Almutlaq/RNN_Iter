@@ -1,4 +1,5 @@
 outs:
-- md5: f70e97ce977bd18dbb4579fba05ad527
-  size: 25736351
-  path: trained_rnn.pt
+- path: trained_rnn.pt
+frozen: true
+deps:
+- path: https://drive.google.com/drive/u/1/folders/14ch8sFgTsvfcLZRiuHRagQOmQzDan2nL
