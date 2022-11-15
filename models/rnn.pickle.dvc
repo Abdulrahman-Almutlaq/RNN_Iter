@@ -1,0 +1,4 @@
+outs:
+- md5: dcf3f0468db970dedc521ebef5b8fb52
+  size: 13511028
+  path: rnn.pickle
